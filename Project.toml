@@ -1,0 +1,18 @@
+name = "OSMRenderer"
+uuid = "4b1835c2-8332-4d8b-91e0-3ed6ad5eda05"
+authors = ["Julian P Samaroo <jpsamaroo@jpsamaroo.me>"]
+version = "0.1.0"
+
+[deps]
+CImGui = "5d785b6c-b76f-510e-a07c-3070796c7e87"
+CSyntax = "ea656a56-6ca6-5dda-bba5-7b6963a5f74c"
+Dagger = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+GLFW = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+MemPool = "f9f48841-c794-520a-933b-121f7ba6ed94"
+ModernGL = "66fc600b-dfda-50eb-8b99-91cfa97b1301"
+OSMToolset = "95f29343-c392-403a-9f40-44ec856456bb"
+OpenStreetMapX = "86cd37e6-c0ff-550b-95fe-21d72c8d4fc9"
+SpatialIndexing = "d4ead438-fe20-5cc5-a293-4fd39a41b74c"
